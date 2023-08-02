@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Speech, Cognition, and Brain Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our lab is dedicated to advancing the understanding of the intricate relationship between speech, cognition, and brain mechanisms. We strive to unravel the mysteries behind how the human brain processes and comprehends language, and how cognitive processes influence speech production and perception.
   
   - block: collection
     content:
