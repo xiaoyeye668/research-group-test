@@ -11,22 +11,20 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: test@example.org
-      phone: 888 888 88 88
+      phone: 86-10-64872070
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+    Beijing Chaoyang District, Lin Cui Road No.16 Courtyard, Institute of Psychology, Chinese Academy of Sciences.
+        street: Lin Cui Road No.16 Courtyard
+        city: Beijing
+        region: Chaoyang
+        postcode: '10001'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '39.92'
+        longitude: '116.46'
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - '09:00 to 18:00'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
