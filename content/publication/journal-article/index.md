@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
   - Source Themes
 featured: false
-
+<!--
 # links:
 # - name: ""
 #   url: ""
@@ -70,3 +70,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+-->
