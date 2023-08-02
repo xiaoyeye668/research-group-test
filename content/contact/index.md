@@ -23,13 +23,6 @@ sections:
       coordinates:
         latitude: '39.92'
         longitude: '116.46'
-      office_hours:
-        - '09:00 to 18:00'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
