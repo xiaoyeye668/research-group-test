@@ -13,7 +13,6 @@ sections:
       email: test@example.org
       phone: 86-10-64872070
       address:
-    Beijing Chaoyang District, Lin Cui Road No.16 Courtyard, Institute of Psychology, Chinese Academy of Sciences.
         street: Lin Cui Road No.16 Courtyard
         city: Beijing
         region: Chaoyang
